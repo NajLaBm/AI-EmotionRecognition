@@ -36,4 +36,4 @@ Migration vers un projet multimodal
 
 ## 🚀 Résultats  
 ![Deroulement](detectionVisuelle.png) 
-Démenstration vidéo sous le nom demo.mp4
+
