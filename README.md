@@ -33,3 +33,7 @@ Modèle audio : 93,48% de précision
 Intégration de modèles plus avancés
 Optimisation du temps de traitement
 Migration vers un projet multimodal
+
+## 🚀 Résultats  
+![Deroulement](detectionVisuelle.png) 
+Démenstration vidéo sous le nom demo.mp4
